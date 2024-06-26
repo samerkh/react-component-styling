@@ -1,11 +1,11 @@
-header {
+/* header {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
-}
+} 
 
 header img {
   object-fit: contain;
@@ -43,4 +43,4 @@ header p {
 
 .paragraph {
   background-color: burlywood;
-}
+} */
