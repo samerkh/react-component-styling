@@ -1,4 +1,6 @@
-export default Button = styled.button`
+import styled from "styled-components";
+
+const Button = styled.button`
   padding: 1rem 2rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -12,3 +14,4 @@ export default Button = styled.button`
     background-color: #f0920e;
   }
 `;
+export default Button;
