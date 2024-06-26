@@ -35,7 +35,7 @@ button:focus {
   background: linear-gradient(180deg, #474232 0%, #28271c 100%);
   color: white;
 }
-
+/* 
 .controls {
   display: flex;
   flex-direction: column;
@@ -72,7 +72,7 @@ input.invalid {
   color: #ef4444;
   border-color: #f73f3f;
   background-color: #fed2d2;
-}
+} */
 
 .actions {
   display: flex;
